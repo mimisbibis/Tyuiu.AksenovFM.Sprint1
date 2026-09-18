@@ -1,5 +1,12 @@
 <Solution>
-  <Project Path="Tyuiu.AksenovFM.Sprint1.Task0.V16.Lib/Tyuiu.AksenovFM.Sprint1.Task0.V16.Lib.csproj" />
-  <Project Path="Tyuiu.AksenovFM.Sprint1.Task0.V16.Test/Tyuiu.AksenovFM.Sprint1.Task0.V16.Test.csproj" />
-  <Project Path="Tyuiu.AksenovFM.Sprint1.Task0.V16/Tyuiu.AksenovFM.Sprint1.Task0.V16.csproj" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.AksenovFM.Sprint1.Task0.V16.Lib/Tyuiu.AksenovFM.Sprint1.Task0.V16.Lib.csproj" />
+    <Project Path="Tyuiu.AksenovFM.Sprint1.Task0.V16.Test/Tyuiu.AksenovFM.Sprint1.Task0.V16.Test.csproj" />
+    <Project Path="Tyuiu.AksenovFM.Sprint1.Task0.V16/Tyuiu.AksenovFM.Sprint1.Task0.V16.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.AksenovFM.Sprint1.Task1.V7.Lib/Tyuiu.AksenovFM.Sprint1.Task1.V7.Lib.csproj" Id="aac5cc07-afc6-42cf-b3b3-1464627e2446" />
+    <Project Path="Tyuiu.AksenovFM.Sprint1.Task1.V7.Test/Tyuiu.AksenovFM.Sprint1.Task1.V7.Test.csproj" Id="9fd273ca-1cb5-4e7e-a90b-60c849d8c863" />
+    <Project Path="Tyuiu.AksenovFM.Sprint1.Task1.V7/Tyuiu.AksenovFM.Sprint1.Task1.V7.csproj" Id="295b76fc-e362-49e1-9d9d-e8686b84140b" />
+  </Folder>
 </Solution>
