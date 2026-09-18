@@ -11,7 +11,7 @@ namespace Tyuiu.AksenovFM.Sprint1.Task2.V22.Test
             int x = 0;
             int y = 0;
             int z = 0;
-            var res = ds.ConvertAngleToRad(x, y, z);
+            var res = ds.CalculateAVGValue(x, y, z);
             Assert.AreEqual(0, res);
         }
     }
