@@ -1,4 +1,4 @@
-﻿using Tyuiu.AksenovFM.Sprint1.Task1.V7.Lib;
+﻿using Tyuiu.AksenovFM.Sprint1.Task1.V7.Lib; // Почему то не защитался Task1, публикую снова
 namespace Tyuiu.AksenovFM.Sprint1.Task1.V7
 {
     internal class Program
