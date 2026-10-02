@@ -1,6 +1,5 @@
-﻿using Tyuiu.AksenovFM.Sprint1.Task5.V7.Lib;
-
-namespace Tyuiu.AksenovFM.Sprint1.Task5.V7
+﻿using Tyuiu.AksenovFM.Sprint1.Task6.V7.Lib;
+namespace Tyuiu.AksenovFM.Sprint1.Task6.V7
 {
     class Program
     {

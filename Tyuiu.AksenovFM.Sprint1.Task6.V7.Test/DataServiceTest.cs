@@ -1,9 +1,8 @@
-﻿using Tyuiu.AksenovFM.Sprint1.Task5.V7.Lib;
-
-namespace Tyuiu.AksenovFM.Sprint1.Task5.V7.Test
+﻿using Tyuiu.AksenovFM.Sprint1.Task6.V7.Lib;
+namespace Tyuiu.AksenovFM.Sprint1.Task6.V7.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public class ISprint1Task6V7
     {
         [TestMethod]
         public void ValidString()
