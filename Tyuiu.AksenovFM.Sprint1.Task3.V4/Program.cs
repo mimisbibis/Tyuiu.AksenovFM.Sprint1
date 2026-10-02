@@ -35,6 +35,7 @@ namespace Tyuiu.AksenovFM.Sprint1.Task3.V4
 
             Console.WriteLine("Стоимость покупки: " + ds.Calculate(a, b, c) + " руб");
 
+
             Console.ReadKey();
         }
     }
