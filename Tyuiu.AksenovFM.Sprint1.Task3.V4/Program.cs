@@ -5,7 +5,6 @@ namespace Tyuiu.AksenovFM.Sprint1.Task3.V4
     {
         static void Main(string[] args)
         {
-
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Аксенов Ф. М. | РППб-26-1";
             Console.WriteLine("**************************************************************");
