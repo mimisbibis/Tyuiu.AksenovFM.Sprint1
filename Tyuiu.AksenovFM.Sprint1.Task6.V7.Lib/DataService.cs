@@ -2,7 +2,7 @@
 
 namespace Tyuiu.AksenovFM.Sprint1.Task6.V7.Lib
 {
-    public class DataService : ISprint1Task6V0
+    public class DataService : ISprint1Task6V7
     {
         public string WorkWithText(string value)
         {
