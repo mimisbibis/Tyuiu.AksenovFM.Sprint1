@@ -1,8 +1,8 @@
 ﻿using Tyuiu.AksenovFM.Sprint1.Task3.V4.Lib;
-namespace Tyuiu.AksenovFM.Sprint1.Task3.V4.Test
+namespace Tyuiu.AksenovFM.Sprint1.Task3.V4
 {
     [TestClass]
-    public sealed class DataServiceTest
+    public class DataServiceTest
     {
         [TestMethod]
         public void ValidExpression()
