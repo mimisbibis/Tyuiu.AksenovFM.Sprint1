@@ -9,7 +9,7 @@ namespace Tyuiu.AksenovFM.Sprint1.Task3.V4.Test
 
         public void ValidExpression()
         {
-            DataService ds = new DataService();
+            ISprint1Task3V4 ds = new ISprint1Task3V4();
 
             double a = 2.75;
             double b = 0.5;
